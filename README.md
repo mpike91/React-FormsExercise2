@@ -1,8 +1,8 @@
 # React - Forms Exercise 2 - Todo App
-xyz
+Simple "todo list" app. This gave me practice using controlled components, particularly forms, in React. User can submit a todo list item and
 
 <p align="center">
-  <img width="50%" src="todo.png" alt="Image of app">
+  <img width="90%" src="todo.png" alt="Image of app">
 </p>
 
 ## Running the App
@@ -12,4 +12,4 @@ xyz
 4) Start app: `npm start`
 
 ## My Contribution
-xyz
+No starter code was given to me. Only component names and their functionality was described to me as an assignment. I wrote everything myself, on top of the create-react-app boilerplate.
