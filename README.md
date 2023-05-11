@@ -1,5 +1,5 @@
 # React - Forms Exercise 2 - Todo App
-Simple "todo list" app. This gave me practice using controlled components, particularly forms, in React. User can submit a todo list item and
+Simple "todo list" app. This gave me practice using controlled components, particularly forms, in React. User can submit todo list items, mark each one crossed off, delete each item, and edit each item.
 
 <p align="center">
   <img width="90%" src="todo.png" alt="Image of app">
